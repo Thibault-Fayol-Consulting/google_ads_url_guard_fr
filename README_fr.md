@@ -1,5 +1,5 @@
 # Google Ads URL Guard (FR)
-
+ 
 Script Google Ads pour **contrôler automatiquement la santé des pages de destination** utilisées par vos annonces/mots‑clés.
 
 ## Ce que fait le script
